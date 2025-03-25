@@ -1,0 +1,33 @@
+body {
+	background-color: #80ced6;
+	align-content: center;
+	text-align: center;
+}
+
+.lexend-<uniquifier> {
+  font-family: "Lexend", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+h1 {
+	text-align: left;
+	background-color: #618685;
+	color: #fefbd8;
+}
+
+.container {
+	text-align: left;
+	margin-top: 30px;
+	background-color: #d5f4e6;
+	border: solid 2px #618685;
+	border-radius: 25px;
+	padding: 15px;
+
+button {
+	background-color: #80ced6;
+	color: #fefbd8;
+	border-radius: 12px;
+	border-color: #618685;
+}
